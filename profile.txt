@@ -1,0 +1,31 @@
+# Unit limit per quarter.
+minUnits 8
+maxUnits 15
+
+# These are the quarters that I need to fill. It is assumed that
+# the quarters are sorted in chronological order.
+register Win2016
+register Spr2016
+
+# Courses I've already taken
+taken CS103
+taken CS106B
+taken CS109
+taken CS161
+taken CS221
+taken CS229
+taken MATH51
+taken CS107
+taken CS246
+taken CS155
+taken CS145
+
+
+# Courses that I'm requesting
+request CS166 in Spr2016 
+request ITALIAN221 in Spr2016
+request CS154 in Win2016 
+request CS191 in Win2016 
+request CS228 in Win2016
+request CS246 in Win2016 
+request CS149 in Win2016
